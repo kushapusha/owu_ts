@@ -3,5 +3,5 @@ export interface DeputyInterface {
     surname: string
     age: number
     bribe_taker: boolean
-    bribe_size?: number
+    bribe_size: number
 }
